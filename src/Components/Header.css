@@ -1,0 +1,74 @@
+
+.cls2 {
+ display: flex;
+  flex-direction: row;
+  gap: 25px;
+  justify-content: center;
+  height: 70px;
+  font-size: 18px;
+  margin-top: 0px;
+  
+  
+ 
+
+}
+.img1{
+  height: 100px;
+}
+li{
+    cursor: pointer;
+}
+.cls2 li{
+    color: white;
+  transition: transform(0.2s);
+  list-style: none;
+}
+.cls2 li:hover{
+  color: white;
+  transform: scale(1.1);
+  
+}
+.cls3 li{
+  transition: transform(0.1s);
+  list-style: none;
+}
+.cls3 li:hover{
+  transform: scale(1.05);
+}
+.cls1{
+  height: 85px;
+  background-color:#282c34 ;
+  display: flex; 
+  position: fixed;
+  width: 100%;
+  
+}
+.cls3 {
+    color: white;
+    list-style: none;
+    
+    margin-right: 4rem;
+    display: flex;
+    text-align:right;
+    gap: 25px;
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: right;
+    align-items: center;
+    
+}
+.btn0{
+  background-color: rgb(84, 84, 238);
+  height: 40px;
+  width: 150px;
+  color: white;
+  font-size: 17px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.head{
+  width: 100%;
+  display: flex;
+  justify-content:space-between ;
+}

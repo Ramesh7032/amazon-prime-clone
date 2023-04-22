@@ -1,0 +1,31 @@
+.foot0{
+    width: 100%;
+    height: 180px;
+    background-color: rgb(40, 36, 36)
+}
+.foot1{
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.foot2{
+    width: 100% ;
+    color: rgb(45, 45, 207);
+    display: flex;
+    font-size: 16px;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.foot2 p{
+    margin: 20px 15px ;
+    color: #0f79af;
+}
+.final{
+    color: white;
+    justify-content: center;
+    text-align: center;
+    margin: -15px 0px;
+}

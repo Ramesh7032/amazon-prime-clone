@@ -1,0 +1,152 @@
+
+.ferzi1{
+    width: 85%;
+    color: azure;
+    margin-top: 40px;
+    margin-left: 30px;
+    font-weight:normal;
+    font-size: 20px;
+    
+}
+.main1{
+    display: flex;
+
+    height: 500px;
+    width: 100%;
+    background-color:rgb(20, 16, 16);
+    cursor:default;
+    
+}
+.btn{
+    background-color: rgb(84, 84, 238);
+    height: 50px;
+    width: 250px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.main2{
+    background-color:rgb(20, 16, 16);
+    display: flex;
+    color: white;
+    
+}
+.main2-1{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.btn1{
+    width: 250px;
+    height: 60px;
+    background-color: rgb(84, 84, 238);
+    color: white;
+    font-size: 20px;
+}
+.main3{
+    display: flex;
+    background-color: white;
+}
+
+.main3-1{
+    width: 750px;
+    color: rgb(49, 42, 42);
+    font-size: 50px;
+    margin-left: 55px;
+}
+.p1{
+    font-size: 30px;
+    color: grey;
+}
+table,th,td{
+    border: 5px solid;
+    padding: 0px;
+    height: 150px;
+    width: 650px;
+    background-color:  rgb(71, 71, 150);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.main3-2 td{
+    transition: transform(0.1s);
+
+}
+.main3-2 td:hover{
+    transform: scale(1.03);
+    cursor: pointer;
+}
+.main4{
+    background-color:black;
+    display: flex;
+}
+.p2{
+    color: white;
+    font-size: 50px;
+    margin-left: 50px;
+
+}
+.p3{
+    color: white;
+    font-size: 20px;
+    margin-right: 80px;
+    margin-left: 50px;
+}
+.btn3{
+    width: 250px;
+    height: 60px;
+    margin-left: 50px;
+    background-color:rgb(84, 84, 238);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.main{
+    
+    padding-top:85px;
+    width: 100%;
+}
+.btn{
+    transition: transform(0.05s);
+}
+.btn:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.main4-3{
+    background-color: rgb(23, 15, 15);
+    width: 54%;
+    height: 500px;
+    display: flex;
+}
+.p4{
+    color: white;
+    font-size: 40px;
+    margin-left: 70px;
+}
+.p5{
+    color: white;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.main4-4{
+    width: 0%;
+    height: 30px;
+    background-color: black;
+    
+    
+}
+
+.main3-2{
+    margin-right: 20px;
+    margin-left: 100px;
+}
+.main4-2{
+    width: 40%;
+    font-size: 15px;
+}
+.siddu{
+    width: 770px;
+    height: 500px;
+}
