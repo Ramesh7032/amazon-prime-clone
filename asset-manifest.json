@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/amazon-prime-clone/static/css/main.a5bc71aa.css",
+    "main.js": "/amazon-prime-clone/static/js/main.53e1c2ae.js",
+    "static/js/787.28cb0dcd.chunk.js": "/amazon-prime-clone/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ama.png": "/amazon-prime-clone/static/media/ama.eac3afb9be987ab1af01.png",
+    "static/media/siddu.png": "/amazon-prime-clone/static/media/siddu.d9919238795b733dee09.png",
+    "static/media/ama5.png": "/amazon-prime-clone/static/media/ama5.7c37b2cea56e25570ee3.png",
+    "static/media/ama2.png": "/amazon-prime-clone/static/media/ama2.09425682e929b374c395.png",
+    "static/media/drushyam.jpg": "/amazon-prime-clone/static/media/drushyam.fe65ae66edfd5952ba72.jpg",
+    "static/media/ferzi2.webp": "/amazon-prime-clone/static/media/ferzi2.e2115a55c3650d69055e.webp",
+    "static/media/table3-1.png": "/amazon-prime-clone/static/media/table3-1.71db04645e31bf34adf8.png",
+    "static/media/table4-2.png": "/amazon-prime-clone/static/media/table4-2.fc2c4d1671b0fee4eeb3.png",
+    "static/media/table4-1.png": "/amazon-prime-clone/static/media/table4-1.9b393265a4deecfbc5a8.png",
+    "static/media/table2-3.png": "/amazon-prime-clone/static/media/table2-3.f0f17253de67064b9aef.png",
+    "static/media/varisu.jpeg": "/amazon-prime-clone/static/media/varisu.7488f82a50d23f0ddce9.jpeg",
+    "static/media/amazon.jpg": "/amazon-prime-clone/static/media/amazon.3ea26c7b3021531b55db.jpg",
+    "static/media/tab1-1.jpg": "/amazon-prime-clone/static/media/tab1-1.9ab12dccc3c420ec8ddc.jpg",
+    "static/media/table1-2.jpg": "/amazon-prime-clone/static/media/table1-2.fc2f0cc0b8ad005cf0c9.jpg",
+    "static/media/table4-3.jpg": "/amazon-prime-clone/static/media/table4-3.b2e0a24aa351e0125dc3.jpg",
+    "static/media/table2-1.jpg": "/amazon-prime-clone/static/media/table2-1.83bda603659a930e4918.jpg",
+    "static/media/table3-3.jpg": "/amazon-prime-clone/static/media/table3-3.4ecdc9d7166afc461374.jpg",
+    "static/media/table3-2.jpg": "/amazon-prime-clone/static/media/table3-2.c896771a0a346e492664.jpg",
+    "static/media/table1-3.jpg": "/amazon-prime-clone/static/media/table1-3.d8b84d07c22cf78cf07b.jpg",
+    "static/media/table2-2.jpg": "/amazon-prime-clone/static/media/table2-2.fcac82dc16414fae556d.jpg",
+    "static/media/prime.webp": "/amazon-prime-clone/static/media/prime.93c7927a153aa8b5207c.webp",
+    "index.html": "/amazon-prime-clone/index.html",
+    "main.a5bc71aa.css.map": "/amazon-prime-clone/static/css/main.a5bc71aa.css.map",
+    "main.53e1c2ae.js.map": "/amazon-prime-clone/static/js/main.53e1c2ae.js.map",
+    "787.28cb0dcd.chunk.js.map": "/amazon-prime-clone/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5bc71aa.css",
+    "static/js/main.53e1c2ae.js"
+  ]
+}
